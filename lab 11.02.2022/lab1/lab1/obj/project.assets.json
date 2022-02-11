@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rail\\Desktop\\lab 11.02.2022\\lab1\\lab1\\lab1.csproj",
+      "projectUniqueName": "C:\\Users\\Rail\\Desktop\\lab-11.02.22\\lab 11.02.2022\\lab1\\lab1\\lab1.csproj",
       "projectName": "lab1",
-      "projectPath": "C:\\Users\\Rail\\Desktop\\lab 11.02.2022\\lab1\\lab1\\lab1.csproj",
+      "projectPath": "C:\\Users\\Rail\\Desktop\\lab-11.02.22\\lab 11.02.2022\\lab1\\lab1\\lab1.csproj",
       "packagesPath": "C:\\Users\\Rail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rail\\Desktop\\lab 11.02.2022\\lab1\\lab1\\obj\\",
+      "outputPath": "C:\\Users\\Rail\\Desktop\\lab-11.02.22\\lab 11.02.2022\\lab1\\lab1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rail\\AppData\\Roaming\\NuGet\\NuGet.Config",
