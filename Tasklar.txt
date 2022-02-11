@@ -1,0 +1,19 @@
+
+
+1. a ve b ededleri verilib 
+a-nin b quvvetini tapin(Məsələn,a=2,b=3 cavab 8)
+
+2. 2nin quvveti olan bir tam eded verilib     16
+bu ededinin 2nin necenci quvvetini oldugunu tapin
+(Meselen:8   2-nin 3 cu quvvetidir ekrana 3 cixmaldiir.)
+
+
+3. Üçrəqəmli tam ədəd verilib. Bu ədədin yazılışında 3 rəqəminin olub-olmadığını müəyyənləşdirin.
+
+
+4. Təyin olunan arrayın içərisindəki ədələrin ədədi ortasının tapılması
+[2,4,6,8]
+
+
+5.Methodan bir ededi parametr olaraq verirsiz.Bu method hemin ededin faktorialini hesablamalidi.
+
